@@ -51,13 +51,13 @@ function getCookie(_0x52dec3) {
   return _0x9457a0;
 }
 //add iklan
-var _links = ["https://carrierdestined.com/h9wy87em5h?key=20cb5df32b0cb6d71e91c2556d91f27a", "https://sauptowhy.com/4/3184875", "https://nv3tosjqd.com/2017599/", "https://naazex.com/gosl/InNpZCI6MTM0NTI1OCwic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjExODA1MzIs?si1=&si2="];
+/*var _links = ["https://carrierdestined.com/h9wy87em5h?key=20cb5df32b0cb6d71e91c2556d91f27a", "https://sauptowhy.com/4/3184875", "https://nv3tosjqd.com/2017599/", "https://naazex.com/gosl/InNpZCI6MTM0NTI1OCwic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjExODA1MzIs?si1=&si2="];
 var _directLinkUrl = '';
 var _get = function (_0x3eea8f) {
   if (_0x3eea8f = new RegExp("[?&]" + encodeURIComponent(_0x3eea8f) + "=([^&]*)").exec(location.search)) {
     return decodeURIComponent(_0x3eea8f[1]);
   }
-};
+};*/
 function generateCode() {
   _linkIndex = parseInt(getCookie("linkIndex"));
   if (_linkIndex >= _links.length || _linkIndex < 0) {
