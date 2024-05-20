@@ -12,9 +12,9 @@ $.get("https://1.1.1.1/cdn-cgi/trace", {}, function (_0x3143ef) {
   }
 });
 var _linkIndex = -1;
-document.getElementById(atob("Zmlyc3RfY29udGVudA==")).innerHTML = atob("PGlmcmFtZSBhbGxvdz0nZW5jcnlwdGVkLW1lZGlhJyBhbGxvd2Z1bGxzY3JlZW49J2FsbG93ZnVsbHNjcmVlbicgYWxsb3d0cmFuc3BhcmVuY3k9J3RydWUnIGNsYXNzPSdpZnJhbWUnIGZyYW1lYm9yZGVyPScwJyBmcmFtZXNwYWNpbmc9JzAnIGdlc3R1cmU9J21lZGlhJyBoZWlnaHQ9JzEwMHZoJyBpZD0nbWFpbl9pZnJhbWUnIHNjcm9sbGluZz0nbm8nIHNyYz0naHR0cHM6Ly90djIuZHVrdGVrLm9ubGluZS8nIHdpZHRoPScxMDB2dycvPg==");
+document.getElementById(atob("Zmlyc3RfY29udGVudA==")).innerHTML = atob("PGlmcmFtZSBhbGxvdz0nZW5jcnlwdGVkLW1lZGlhJyBhbGxvd2Z1bGxzY3JlZW49J2FsbG93ZnVsbHNjcmVlbicgYWxsb3d0cmFuc3BhcmVuY3k9J3RydWUnIGNsYXNzPSdpZnJhbWUnIGZyYW1lYm9yZGVyPScwJyBmcmFtZXNwYWNpbmc9JzAnIGdlc3R1cmU9J21lZGlhJyBoZWlnaHQ9JzEwMHZoJyBpZD0nbWFpbl9pZnJhbWUnIHNjcm9sbGluZz0nbm8nIHNyYz0naHR0cHM6Ly9saXZlLXRlc3QuZ29ycmF0di5mdW4nIHdpZHRoPScxMDB2dycvPg==");
 var _myLocation = window.location.href;
-eval(atob("ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21haW5faWZyYW1lJykuc3JjID0gJ2h0dHBzOi8vdHYyLmR1a3Rlay5vbmxpbmUnK191cmwucGF0aG5hbWU="));
+eval(atob("ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21haW5faWZyYW1lJykuc3JjID0gJ2h0dHBzOi8vbGl2ZS10ZXN0LmdvcnJhdHYuZnVuJytfdXJsLnBhdGhuYW1l"));
 var _changeState = function (_0x385178, _0x2e656f) {
   window.history.pushState({
     'pageTitle': _0x385178
@@ -22,7 +22,7 @@ var _changeState = function (_0x385178, _0x2e656f) {
   document.title = _0x385178;
 };
 window.onmessage = _0x3e1a8b => {
-  if (_0x3e1a8b.origin === atob("aHR0cHM6Ly90djIuZHVrdGVrLm9ubGluZQ==")) {
+  if (_0x3e1a8b.origin === atob("aHR0cHM6Ly9saXZlLXRlc3QuZ29ycmF0di5mdW4=")) {
     var _0x5df60f = JSON.parse(_0x3e1a8b.data);
     if (_0x5df60f.type == "changeUrl") {
       _changeState(_0x5df60f.title, _0x5df60f.path);
@@ -51,8 +51,7 @@ function getCookie(_0x52dec3) {
   return _0x9457a0;
 }
 //add iklan
-var _links = ["https://stoolsymphony.com/tiakwqw2i?key=bb633614a6c98b6c5aeb9913eb3af5fd","https://www.highcpmgate.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550
-","https://www.highcpmgate.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550","https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://www.highcpmgate.com/tiakwqw2i?key=bb633614a6c98b6c5aeb9913eb3af5fd"];
+var _links = ["https://stoolsymphony.com/tiakwqw2i?key=bb633614a6c98b6c5aeb9913eb3af5fd","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550","https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b"];
 var _directLinkUrl = '';
 var _get = function (_0x3eea8f) {
   if (_0x3eea8f = new RegExp("[?&]" + encodeURIComponent(_0x3eea8f) + "=([^&]*)").exec(location.search)) {
