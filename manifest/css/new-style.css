@@ -131,7 +131,7 @@ video{
 	display: none;
 	border-radius:5px;
 	cursor: pointer;
-	background-image: url(/engine/pwa/img/copy.png);
+	background-image: url(include/img/favicon/icon.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 35px;
