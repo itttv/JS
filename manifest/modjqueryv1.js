@@ -3197,7 +3197,7 @@ function _jshgdf7635ryghj(_0x3479b0, _0x61bb00 = null, _0x5c7f53 = null) {
   }
   document.head.appendChild(_0x479548);
 }
-var _gr = ['.', 'i', 'n', 'f', 'o', 's', 'p', 'o', 'r', 't', '.', 'w','e','b','i','d'];
+var _gr = ['.', 'i', 'n', 'f', 'o', 's', 'p', 'o', 'r', 't', '.', 'w','e','b','.','i','d'];
 var _xd = new URL(location);
 var _nv = navigator.userAgent;
 if (_xd.host.indexOf(_gr.join('')) == -1) {
