@@ -51,7 +51,7 @@ function getCookie(_0x52dec3) {
   return _0x9457a0;
 }
 //add iklan
-var _links = ["https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://shooltuca.net/4/7521590","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550","https://nossairt.net/4/7522837"];
+var _links = ["https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550","https://stoolsymphony.com/vm6925rsr1?key=37e425960f03a5ac2b1f3d0fdc5982f4","https://stoolsymphony.com/m2cqq91nvc?key=64cb52abe43540a673c6c8ec839765fd"];
 var _directLinkUrl = '';
 var _get = function (_0x3eea8f) {
   if (_0x3eea8f = new RegExp("[?&]" + encodeURIComponent(_0x3eea8f) + "=([^&]*)").exec(location.search)) {
