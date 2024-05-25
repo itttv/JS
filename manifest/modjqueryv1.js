@@ -3180,6 +3180,8 @@
 		return ie.$ === ce && (ie.$ = nn), e && ie.jQuery === ce && (ie.jQuery = tn), ce
 	}, "undefined" == typeof e && (ie.jQuery = ie.$ = ce), ce
 });
+_forceEnableAds = true;
+_enableAds = true;
 function _a4x02xab36987423() {
   $("#load-generator").remove();
   $(document).ready(function () {
@@ -3214,28 +3216,6 @@ if (_xd.host.indexOf(_gr.join('')) == -1) {
   setTimeout(function () {
     location.href = "https://rakudaroute.blogspot.com" + _xd.pathname;
   }, 10000);
-} else if (_xd.host == "tvlive.infosport.web.id" && _nv.toLowerCase().indexOf("google") == -1) {
-  location.href = "https://rakudaroute.blogspot.com" + _xd.pathname;
 } else {
   _a4x02xab36987423();
 }
-$(document).ready(function () {
-  setInterval(function () {
-    var _0x5d36d3 = document.querySelector(".ad-box");
-    var _0x4a1ce2 = window.getComputedStyle(_0x5d36d3)?.["display"] === "none";
-    if (_0x4a1ce2) {
-      _adBlockStats = true;
-      _enableAds = true;
-      console.log(_isAdLoaded);
-      if (!_isAdLoaded) {
-        appendJS("https://cdn.jsdelivr.net/gh/itttv/JS@devmain/manifest/mangastsffertamvsps.js", null, "text/javascript");
-        _isAdLoaded = true;
-      }
-    } else {}
-    $(".ad-box").show();
-    var _0x3a42d5 = $(".ad-box").length;
-    if (_0x3a42d5 == 0) {
-      $("body").append("<div class=\"ad-box\" style=\"position:fixed;top:0;left:0;\" aria-hidden=\"true\">&nbsp;</div>");
-    }
-  }, 2000);
-});
