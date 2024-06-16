@@ -52,7 +52,7 @@ function getCookie(_0x52dec3) {
   return _0x9457a0;
 }
 //add iklan
-var _links = ["https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550"];
+var _links = ["https://stoolsymphony.com/ethakbt5rr?key=96da23e9eba28e9a8a2bd7ef2634234b","https://stoolsymphony.com/gd8d3cip3k?key=3fac22aa9925d30821e35118852b4550","https://vdbaa.com/fullpage.php?section=General&pub=314128&ga=g"];
 var _directLinkUrl = '';
 var _get = function (_0x3eea8f) {
   if (_0x3eea8f = new RegExp("[?&]" + encodeURIComponent(_0x3eea8f) + "=([^&]*)").exec(location.search)) {
