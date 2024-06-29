@@ -180,7 +180,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 ------------------------TV INDO 3----------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="TV INDO 03", [ iKiTV ] • ANIMAL PLANET
-http://iptvtree.net:8080/everton/7def2e7e/157532
+http://108.181.132.205:8070/live/everton/7def2e7e/157532.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="TV INDO 03", [ iKiTV ] • Animax
 http://iptvtree.net:8080/everton/7def2e7e/165081
 #EXTINF:-1 tvg-id="" tvg-name="AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="TV INDO 03", [ iKiTV ] • AniPlus
