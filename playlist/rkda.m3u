@@ -1790,6 +1790,8 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TSN 1
 http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="EURO 2024",TSN 1 iptvtree 
+http://iptvtree.net:8080/everton/7def2e7e/770
 
 
 
