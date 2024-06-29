@@ -1,4 +1,5 @@
 #EXTM3U
+---------------------------------TSN GROUP-----------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353478.1441033714!/fileimage/httpImage/image.png_gen/derivatives/default/tsn1.png" group-title="TSN CHANNEL",TSN 1
 httpp://vo012.mohdtv.com:8880/live/ALLChannels7070AAB8BC5F/16874452/3004.m3u8?token=TBRRBxJfEA9BD1RaAgcCUF4GBVcIBVRSAFINDVBVAVkGDlpQUwNQAgYaHBtCRUIEWV5tC1QTC1EBVQwYFkVEBEVpUAJDDRANUA8GCQUTHENMWl8HEgsBThMVUVAWChVSAgcLU0MbEFAbTFVLX1BcPlxWRAtTVBNYXxBUWBgSWA9oUlwLAFlWF1kaARsdE1kSSBEIDEVdXU4TB1FARlFDBBUMG1VVBgEXTxpTVkRfRBNBEQhAeXUTThMAQEBRXkQIWFgbXENaAUBbGhwbWEJvE11ARhBVUFwHQ0cCFgQSG0NaV0E5AlhcWwZbRFBeX0NDAhEDQBwTXA1fDExbRm9HCFMUA0RSAgMFURpN
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353480.1441033792!/fileimage/httpImage/image.png_gen/derivatives/default/tsn2.png" group-title="TSN CHANNEL",TSN 2
