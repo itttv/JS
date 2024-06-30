@@ -20,3 +20,15 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://assets.tv24.co/channels/tnt-sports-4-l.webp" group-title="TNT CHANNEL",TNT 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/255259.m3u8
+
+---------------------------------SONY TEN GROUP-----------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/17565.m3u8
