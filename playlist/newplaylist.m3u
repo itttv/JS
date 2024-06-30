@@ -1,9 +1,9 @@
 #EXTM3U
 ---------------------------------TSN GROUP-----------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353478.1441033714!/fileimage/httpImage/image.png_gen/derivatives/default/tsn1.png" group-title="TSN CHANNEL",TSN 1
-http://vo012.mohdtv.com:8880/live/ALLChannels7070AAB8BC5F/16874452/3004.m3u8?token=TBRRBxJfEA9BD1RaAgcCUF4GBVcIBVRSAFINDVBVAVkGDlpQUwNQAgYaHBtCRUIEWV5tC1QTC1EBVQwYFkVEBEVpUAJDDRANUA8GCQUTHENMWl8HEgsBThMVUVAWChVSAgcLU0MbEFAbTFVLX1BcPlxWRAtTVBNYXxBUWBgSWA9oUlwLAFlWF1kaARsdE1kSSBEIDEVdXU4TB1FARlFDBBUMG1VVBgEXTxpTVkRfRBNBEQhAeXUTThMAQEBRXkQIWFgbXENaAUBbGhwbWEJvE11ARhBVUFwHQ0cCFgQSG0NaV0E5AlhcWwZbRFBeX0NDAhEDQBwTXA1fDExbRm9HCFMUA0RSAgMFURpN
+http://iptvtree.net:8080/live/everton/7def2e7e/770.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353480.1441033792!/fileimage/httpImage/image.png_gen/derivatives/default/tsn2.png" group-title="TSN CHANNEL",TSN 2
-http://vo012.mohdtv.com:8880/live/ALLChannels7070AAB8BC5F/16874452/3003.m3u8?token=TBRRBxJfEA9BWwYNVANRBQgHAAMFUwJRAl0AVVZSAQIBAQEEBARUAQUaHBtCRUIEWV5tC1QTC1EBVQsYFkVEBEVpUAJDDRANUA8GCQUTHENMWl8HEgsBThMVUVAWChVQBQINX1QVHhcGQERcQ19RDWdXVxRZUlRACwtNWFgcFQ5ZaV0DDFZcUUECEggTHRIIS0MQWF5EXQ4dR1pdQEJWFVIUA0RTAgcFQRQSWl5EXhVKShBYEnh1QB1HXUxAVVkSXllXRFsVXwYWABIVE1hDPkpWQRZCVFAPVBcaDhYAFU0VW1gePlRdWw1dU01YXl4SGgkQUxIdEw9eC1FAW0JoEV5SG1xDBgABVw8CG0w=
+http://194.120.144.74:8070/live/everton/7def2e7e/770.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353481.1441033831!/fileimage/httpImage/image.png_gen/derivatives/default/tsn3.png" group-title="TSN CHANNEL",TSN 3
 http://vo012.mohdtv.com:8880/live/ALLChannels7070AAB8BC5F/16874452/3002.m3u8?token=TBRRBxJfEA9BDFUMUAQHVllRBlpWVVQEBFdbVVAIAllSVwtRVQILBQIaHBtCRUIEWV5tC1QTC1EBVQoYFkVEBEVpUAJDDRANUA8GCQUTHENMWl8HEgsBThMVUVAWChVTDgYKUUMbEFAbTFVLX1BcPlxWRAtTVBNYXxBUWBgSWA9oUlwLAFlWF1kaARsdE1kSSBEIDEVdXU4TB1FARlFDBBUMVxMNWx4XAFdFV0VDSUMCEXsmEh0TB0kRXVpHWVgPFQwbC1JCChdPGllKbkNVEkxBVwNdVENAC0cIFhgSWgBPaVoJD1lXVhdRX1dCEwpDCREeQF1eXwtFCkprRFlTQw0UC19RBAAXHg==
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353487.1441033924!/fileimage/httpImage/image.png_gen/derivatives/default/tsn4.png" group-title="TSN CHANNEL",TSN 4
