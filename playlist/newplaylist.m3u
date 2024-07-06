@@ -36,3 +36,5 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/17565.m3u8
 ---------------------------------SONY TEN GROUP-----------------------------------------------
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/d92b6d18.png" , SERVER BBC ONE
+http://azertytv.pro:2103/live/382845328AA/eKEeUE11/88287.ts
