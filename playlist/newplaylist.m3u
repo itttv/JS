@@ -32,3 +32,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="SONY TEN CHANNEL",SONY TEN 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/17565.m3u8
+
+---------------------------------SONY TEN GROUP-----------------------------------------------
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1
+http://tv14s.xyz:8080/live/753468/894568/99568.ts
