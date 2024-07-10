@@ -42,3 +42,5 @@ https://melon-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/d92b6d18.png" , SERVER BBC ONE
 http://azertytv.pro:2103/live/382845328AA/eKEeUE11/88287.ts
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/d92b6d18.png" , SERVER 2
+https://fhlsport19.1mv.xyz/cfall/s2/v3b/9ss7sqr7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/9/chunks.m3u8
