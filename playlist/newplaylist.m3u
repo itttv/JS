@@ -7,7 +7,7 @@ http://iptvtree.net:8080/everton/7def2e7e/771
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353481.1441033831!/fileimage/httpImage/image.png_gen/derivatives/default/tsn3.png" group-title="TSN CHANNEL",TSN 3
 http://vo012.mohdtv.com:8880/ALLChannels7070AAB8BC5F/16874452/3002
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353487.1441033924!/fileimage/httpImage/image.png_gen/derivatives/default/tsn4.png" group-title="TSN CHANNEL",TSN 4
-http://vo012.mohdtv.com:8880/ALLChannels7070AAB8BC5F/16874452/3001
+http://202.51.102.84:25461/live/8tj8EgzUAC/dTMcsYhqcp/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353484.1441033905!/fileimage/httpImage/image.png_gen/derivatives/default/tsn5.png" group-title="TSN CHANNEL",TSN 5
 http://vo012.mohdtv.com:8880/ALLChannels7070AAB8BC5F/16874452/3000
 
@@ -46,6 +46,8 @@ http://iptvtree.net:8080/everton/7def2e7e/298550
 ##############TRANSMEDIA GROUP####################
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-title="TRANSMEDIA", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-title="TRANSMEDIA", TRANSTV
+http://202.51.102.84:25461/live/8tj8EgzUAC/dTMcsYhqcp/1.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="TRANSMEDIA", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="CNN.id" tvg-url="" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="TRANSMEDIA", CNN Indonesia
@@ -55,7 +57,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 ###########HBO INDO GROUP######################
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_xxhdpi.jpg" group-title="HBO GROUP", HBO
-http://iptvtree.net:8080/everton/7def2e7e/197972
+http://202.51.102.84:25461/live/8tj8EgzUAC/dTMcsYhqcp/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/landscape_carousel_xxhdpi.jpg" group-title="HBO GROUP", HBO Family
 http://iptvtree.net:8080/everton/7def2e7e/197055
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg" group-title="HBO GROUP", HBO Hits
