@@ -65,6 +65,10 @@ http://iptvtree.net:8080/everton/7def2e7e/221948
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/landscape_carousel_xxhdpi.jpg" group-title="HBO GROUP", Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
+########################ESPN GROUP#########################
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://d1klg9utqvpetw.cloudfront.net/logos/guide/2/Open/92x36_352/Source/9976/espndeporteschannel.png" , ESPN Deportes
+http://172.16.51.7:25461/live/2NJqZTi6si/mQbhGVLUzV/6.m3u8
+
 ###########LIVE GROUP######################
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
@@ -76,3 +80,4 @@ https://fhlsport19.1mv.xyz/cfall/s2/v3b/9ss7sqr7nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0
 https://livecdn-iptv001.rumsport.com/stream/196480/manifest.mpd
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://thumbor.prod.vidiocdn.com/modYefAxqva6RNHQfcBSELn-c5M=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/338/asean-u19-ee4d40.png" , RMBTV
 http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1087499960_b1800000_sleng.m3u8
+
