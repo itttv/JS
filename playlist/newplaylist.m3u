@@ -7,7 +7,7 @@ http://iptvtree.net:8080/everton/7def2e7e/771
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353481.1441033831!/fileimage/httpImage/image.png_gen/derivatives/default/tsn3.png" group-title="TSN CHANNEL",TSN 3
 http://vo012.mohdtv.com:8880/ALLChannels7070AAB8BC5F/16874452/3002
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353487.1441033924!/fileimage/httpImage/image.png_gen/derivatives/default/tsn4.png" group-title="TSN CHANNEL",TSN 4
-http://202.51.102.84:25461/live/8tj8EgzUAC/dTMcsYhqcp/3.m3u8
+http://172.16.51.7:25461/live/2NJqZTi6si/mQbhGVLUzV/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tsn.ca/polopoly_fs/1.353484.1441033905!/fileimage/httpImage/image.png_gen/derivatives/default/tsn5.png" group-title="TSN CHANNEL",TSN 5
 http://vo012.mohdtv.com:8880/ALLChannels7070AAB8BC5F/16874452/3000
 
