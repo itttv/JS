@@ -70,6 +70,10 @@ http://iptvkita.my.id:25461/live/Ahmadjunaidi/29062024/21.m3u8
 http://1play.cool:25461/ferstark/f95946caa5/39734
 
 ###########LIVE GROUP######################
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" , EUROSPORT 1
+http://172.16.51.7:25461/live/2NJqZTi6si/mQbhGVLUzV/4.m3u8
+#EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" , EUROSPORT 1 - A
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/692
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="http://ikitv.online/server1.png" , SERVER 1
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://img.wapka.io/d92b6d18.png" , SERVER BBC ONE
