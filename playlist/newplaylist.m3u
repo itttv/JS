@@ -69,6 +69,10 @@ http://iptvkita.my.id:25461/live/Ahmadjunaidi/29062024/21.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://d1klg9utqvpetw.cloudfront.net/logos/guide/2/Open/92x36_352/Source/9976/espndeporteschannel.png" , ESPN Deportes
 http://1play.cool:25461/ferstark/f95946caa5/39734
 
+########################HUB SPORT GROUP#########################
+#EXTINF:-1 group-title="HUN SPORT" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" , HUB SPORT 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36304.m3u8
+
 ###########LIVE GROUP######################
 #EXTINF:-1 group-title="🟢 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" , EUROSPORT 1
 http://172.16.51.7:25461/live/2NJqZTi6si/mQbhGVLUzV/4.m3u8
