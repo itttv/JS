@@ -1,5 +1,4 @@
-<script> 
-  document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
     setTimeout(function() {
         var adContainer = document.getElementById('adContainer');
         if (adContainer) {
@@ -48,4 +47,3 @@
           adContainer.style.display = 'none';
       }
   }
-</script>
